@@ -11,9 +11,9 @@ Spec repo: https://github.com/WICG/webpackage
 
 ## What's here?
 
-1. Moby-Dick as a very simple HTML bundle, with no Javascript. 
+1. [Moby-Dick](https://github.com/dauwhe/bundles/raw/master/moby.wbn) as a very simple HTML bundle, with no Javascript. 
 
-2. Flatland (only part one) as very simple example of the [W3C Audiobook specification](https://w3c.github.io/audiobooks/) as a web bundle. Once you play the first audio, it will autoplay the rest. There's also navigation between sections. 
+2. [Flatland](https://github.com/dauwhe/bundles/raw/master/flatland.wbn) (only part one) as very simple example of the [W3C Audiobook specification](https://w3c.github.io/audiobooks/) as a web bundle. Once you play the first audio, it will autoplay the rest. There's also navigation between sections. 
 
 ## What's not here?
 
