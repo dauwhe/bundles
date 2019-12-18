@@ -29,5 +29,9 @@ Anything fancy. Most more complex ebooks I would make require iframes, and at th
 
 4. shareable web content without servers! I think in some ways this really lowers the barrier to participation on the web on your own terms. Can you imagine creating a beautiful, artful letter in HTML to send to a friend? 
 
+## Why is my code so bad?
+
+I'm not a real developer.
+
 
 
