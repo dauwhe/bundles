@@ -1,9 +1,10 @@
-# bundles
+# Web Bundle Examples
 
+## How does this work?
 
 At the moment you must have Chrome 79+ with Web Bundles Enabled for these to work. 
 
-Flag: chrome://flags/#web-bundles
+Flag: [chrome://flags/#web-bundles](chrome://flags/#web-bundles)
 
 Useful introduction: https://web.dev/web-bundles/
 
